@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.LoginTest" duration-ms="29513" started-at="2020-02-04T20:07:26Z" finished-at="2020-02-04T20:07:56Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29513" started-at="2020-02-04T20:07:26Z" finished-at="2020-02-04T20:07:56Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.LoginTest@73f792cf]" name="openBrowser" is-config="true" duration-ms="10696" started-at="2020-02-04T14:07:26Z" finished-at="2020-02-04T14:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="userShouldBeAbleToAddDeposit()[pri:0, instance:test.LoginTest@73f792cf]" name="userShouldBeAbleToAddDeposit" duration-ms="15927" started-at="2020-02-04T14:07:37Z" finished-at="2020-02-04T14:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddDeposit -->
+        <test-method status="PASS" signature="CloseEverything()[pri:0, instance:test.LoginTest@73f792cf]" name="CloseEverything" is-config="true" duration-ms="2874" started-at="2020-02-04T14:07:53Z" finished-at="2020-02-04T14:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseEverything -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.LoginTest -->
+</testng-results>
